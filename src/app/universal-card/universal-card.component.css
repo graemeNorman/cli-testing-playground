@@ -1,0 +1,28 @@
+
+.universal__card {
+  border: 1px solid #cfcfcf;
+  border-radius: 5px;
+  margin: 1% 0.5%;
+  padding: 10px;
+  width: 24%;
+}
+
+h1 {
+  font-family: Calibri;
+  font-size: 18px;
+}
+
+p {
+  font-family: "Droid Sans";
+  font-size: 14px;
+}
+
+button {
+  background: #453354;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 13px;
+  min-width: 50px;
+  padding: 5px 7.5px;
+}
